@@ -1,4 +1,5 @@
-/.history/
-/vendor/
-/composer.lock
-/.phpunit.result.cache
+.history/
+vendor/
+composer.lock
+.phpunit.result.cache
+.idea/
