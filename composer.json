@@ -1,0 +1,24 @@
+{
+  "name": "nguyenary/coccoc_test",
+  "description": "Coc Coc test",
+  "authors": [
+    {
+      "name": "Nguyen Truong Nguyen",
+      "email": "nguyenary.dev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\" : "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=8.0",
+    "phpunit/phpunit": "^9.5"
+  }
+}
